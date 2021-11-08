@@ -37,6 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraCon.cs" />
+     <Compile Include="Assets\Scripts\Exit.cs" />
+     <Compile Include="Assets\Scripts\LvlTran.cs" />
      <Compile Include="Assets\Scripts\PlayerM.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
