@@ -38,7 +38,6 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraCon.cs" />
      <Compile Include="Assets\Scripts\Exit.cs" />
-     <Compile Include="Assets\Scripts\HTML5lvlSel.cs" />
      <Compile Include="Assets\Scripts\LvlTran.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\PlayerM.cs" />
