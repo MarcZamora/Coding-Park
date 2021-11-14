@@ -2299,7 +2299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ilvl2load: 1
-  slvl2load: lvl2
+  slvl2load: MainMenu
   useint2loadlvl: 0
 --- !u!61 &878836437
 BoxCollider2D:
