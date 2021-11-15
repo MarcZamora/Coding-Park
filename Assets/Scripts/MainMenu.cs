@@ -6,22 +6,28 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     // Main Menu
+    //exit button
    public void Exitbutton()
    {
        Application.Quit();
        Debug.Log("Game closed");    
    }
 
-   // public void tutorial()
-   // {
-   //     SceneManager.LoadScene("tutorial");
-   // }
+   public void MM()
+   {
+       SceneManager.LoadScene("MainMenu");
+   }
    
    
    //HTML LVLS
    public void HTML5lvl1()
    {
-       SceneManager.LoadScene("lvl1");
+       SceneManager.LoadScene("lvl1ht");
+   }
+   //Java LVLS
+   public void JAVAlvl1()
+   {
+       SceneManager.LoadScene("lvl1ja");
    }
    //In game MENU/UI scene transfer
    public void ResetScene()
