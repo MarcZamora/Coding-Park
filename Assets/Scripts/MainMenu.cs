@@ -16,6 +16,7 @@ public class MainMenu : MonoBehaviour
    public void MM()
    {
        SceneManager.LoadScene("MainMenu");
+       Time.timeScale = 1f;
    }
    
    
@@ -23,6 +24,7 @@ public class MainMenu : MonoBehaviour
    public void HTML5lvl1()
    {
        SceneManager.LoadScene("lvl1ht");
+       Time.timeScale = 1f;
    }
    //Java LVLS
    public void JAVAlvl1()

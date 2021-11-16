@@ -10,6 +10,7 @@ public class EndM : MonoBehaviour
    public GameObject jump;
    public GameObject pause;
    public GameObject reset;
+   public GameObject hint;
     // Update is called once per frame
      private void OnTriggerEnter2D(Collider2D col)
    {
@@ -27,5 +28,6 @@ public class EndM : MonoBehaviour
        jump.SetActive(false);
        pause.SetActive(false);
        reset.SetActive(false);
+       hint.SetActive(false);
    }
 }
