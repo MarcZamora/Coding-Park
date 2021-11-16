@@ -16,7 +16,6 @@ public class MainMenu : MonoBehaviour
    public void MM()
    {
        SceneManager.LoadScene("MainMenu");
-       Time.timeScale = 1f;
    }
    
    
@@ -30,6 +29,14 @@ public class MainMenu : MonoBehaviour
    public void JAVAlvl1()
    {
        SceneManager.LoadScene("lvl1ja");
+       Time.timeScale = 1f;
+   }
+   //Python LVLS
+   public void PYTHONlvl1()
+   {
+       SceneManager.LoadScene("lvl1py");
+       Time.timeScale = 1f;
+
    }
    //In game MENU/UI scene transfer
    public void ResetScene()

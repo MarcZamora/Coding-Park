@@ -4877,7 +4877,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 303637173}
-        m_MethodName: HTML5lvl1
+        m_MethodName: PYTHONlvl1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

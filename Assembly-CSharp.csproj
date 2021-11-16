@@ -39,6 +39,7 @@
      <Compile Include="Assets\Scripts\CameraCon.cs" />
      <Compile Include="Assets\Scripts\EndM.cs" />
      <Compile Include="Assets\Scripts\Exit.cs" />
+     <Compile Include="Assets\Scripts\GameOverM.cs" />
      <Compile Include="Assets\Scripts\LvlTran.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\PauseM.cs" />
